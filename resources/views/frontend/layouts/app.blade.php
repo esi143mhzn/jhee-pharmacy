@@ -32,7 +32,7 @@
     <body>
         <!-- top-header -->
         <div class="header-most-top">
-            <p>Our goal is to cure every person in this world.</p>
+            <p>Our GOAL is to cure every person in this world.</p>
         </div>
         <!-- //top-header -->
         <!-- header-bot-->
