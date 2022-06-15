@@ -319,7 +319,7 @@
                         <div class="col-md-4 product-men">
                             <div class="men-pro-item simpleCart_shelfItem">
                                 <div class="men-thumb-item">
-                                    <img src="{{ asset('assets/images/m1.jpg') }}" alt="">
+                                    <img src="{{ asset('assets/images/diabetes/m1.jpg') }}" alt="">
                                     <div class="men-cart-pro">
                                         <div class="inner-men-cart-pro">
                                             <a href="{{ url('/kitchen/single-product') }}" class="link-product-add-cart">Quick View</a>
@@ -329,7 +329,7 @@
                                 </div>
                                 <div class="item-info-product ">
                                     <h4>
-                                        <a href="{{ url('/kitchen/single-product') }}">Almonds, 100g</a>
+                                        <a href="{{ url('/kitchen/single-product') }}">Canagliflozin, 100mg</a>
                                     </h4>
                                     <div class="info-product-price">
                                         <span class="item_price">$149.00</span>
@@ -358,7 +358,7 @@
                         <div class="col-md-4 product-men">
                             <div class="men-pro-item simpleCart_shelfItem">
                                 <div class="men-thumb-item">
-                                    <img src="{{ asset('assets/images/m2.jpg') }}" alt="">
+                                    <img src="{{ asset('assets/images/diabetes/m2.jpg') }}" alt="">
                                     <div class="men-cart-pro">
                                         <div class="inner-men-cart-pro">
                                             <a href="{{ url('/kitchen/single-product') }}" class="link-product-add-cart">Quick View</a>
@@ -369,7 +369,7 @@
                                 </div>
                                 <div class="item-info-product ">
                                     <h4>
-                                        <a href="{{ url('/kitchen/single-product') }}">Cashew Nuts, 100g</a>
+                                        <a href="{{ url('/kitchen/single-product') }}">Generic Omeprazole Antacid, 20mg</a>
                                     </h4>
                                     <div class="info-product-price">
                                         <span class="item_price">$200.00</span>
@@ -398,7 +398,7 @@
                         <div class="col-md-4 product-men">
                             <div class="men-pro-item simpleCart_shelfItem">
                                 <div class="men-thumb-item">
-                                    <img src="{{ asset('assets/images/m3.jpg') }}" alt="">
+                                    <img src="{{ asset('assets/images/diabetes/m3.jpg') }}" alt="">
                                     <div class="men-cart-pro">
                                         <div class="inner-men-cart-pro">
                                             <a href="{{ url('/kitchen/single-product') }}" class="link-product-add-cart">Quick View</a>
@@ -409,7 +409,8 @@
                                 </div>
                                 <div class="item-info-product ">
                                     <h4>
-                                        <a href="{{ url('/kitchen/single-product') }}">Pista..., 250g</a>
+                                        <a href="{{ url('/kitchen/single-product') }}">Metformin, 500mg
+                                            </a>
                                     </h4>
                                     <div class="info-product-price">
                                         <span class="item_price">$520.99</span>
